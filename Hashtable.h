@@ -1,4 +1,4 @@
-// Program Name: Lab4
+// Program Name: HashTableCollisions
 //
 // Author: Jason Yoon
 //
