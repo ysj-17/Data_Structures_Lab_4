@@ -3,10 +3,6 @@
 // Description:  
 //  Using 3 methods for creating a Hash Table
 //  Also using a dynamic array of Linked Lists 
-//
-// What's on your mind about this lab?
-//  This Lab was a bit easier after the Radix Sort Lab
-//	I understand the List data structure a lot better after this lab
 //  
 // Author: Jason Yoon
 //
